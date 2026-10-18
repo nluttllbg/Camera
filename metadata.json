@@ -1,0 +1,6 @@
+{
+  "name": "iCamera Cinema",
+  "description": "Aplicativo de câmera no estilo iOS com modo Cinemático, bokeh, ajuste de foco/exposição, zoom e processamento widescreen 2.39:1 com Gemini IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">iCamera</string>
+    <string name="mode_cinematic">CINEMÁTICO</string>
+    <string name="mode_photo">FOTO</string>
+    <string name="mode_portrait">RETRATO</string>
+    <string name="mode_night">NOITE</string>
+    <string name="mode_video">VÍDEO</string>
+    
+    <string name="action_shutter">Disparar</string>
+    <string name="action_flip_camera">Alternar Câmera</string>
+    <string name="action_gallery">Abrir Galeria</string>
+    <string name="action_flash">Flash</string>
+    <string name="action_hdr">HDR</string>
+    <string name="action_aspect_ratio">Proporção</string>
+    <string name="action_filters">Filtros de Cinema</string>
+    <string name="action_settings">Ajustes</string>
+    
+    <string name="cinematic_effect_applied">Modo Cinemático Ativo (2.39:1 Letterbox)</string>
+    <string name="cinematic_f_number">f/1.8</string>
+    <string name="ai_processing">Processando com Gemini IA Cinemática…</string>
+    <string name="ai_processing_desc">Aplicando iluminação dramática, tom de cinema e grading anamórfico 2.39:1</string>
+    <string name="ai_success">Efeito Cinemático Concluído!</string>
+    <string name="ai_error">Falha ao processar com IA. Efeito local cinematográfico aplicado.</string>
+    
+    <string name="camera_permission_title">Permissão de Câmera</string>
+    <string name="camera_permission_desc">O iCamera precisa de acesso à câmera para tirar fotos no estilo iOS.</string>
+    <string name="camera_permission_grant">Permitir Câmera</string>
+    <string name="camera_permission_or_gallery">Ou importe uma foto da galeria:</string>
+    <string name="action_pick_photo">Escolher Foto</string>
+    
+    <string name="save_photo">Salvar</string>
+    <string name="share_photo">Compartilhar</string>
+    <string name="close">Fechar</string>
+    <string name="compare_original">Original</string>
+    <string name="compare_cinematic">Cinemático</string>
+</resources>
